@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\bin\Debug\_14.Biggest_of_three.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\bin\Debug\_14.Biggest_of_three.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\bin\Debug\_14.Biggest_of_three.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\obj\Debug\14. Biggest of three.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\obj\Debug\14. Biggest of three.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\obj\Debug\_14.Biggest_of_three.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\14. Biggest of three\obj\Debug\_14.Biggest_of_three.pdb

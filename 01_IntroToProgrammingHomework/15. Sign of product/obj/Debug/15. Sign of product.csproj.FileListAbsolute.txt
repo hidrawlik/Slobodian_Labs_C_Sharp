@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\bin\Debug\Sign of product.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\bin\Debug\Sign of product.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\bin\Debug\Sign of product.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\obj\Debug\15. Sign of product.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\obj\Debug\15. Sign of product.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\obj\Debug\Sign of product.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Sign of product\obj\Debug\Sign of product.pdb

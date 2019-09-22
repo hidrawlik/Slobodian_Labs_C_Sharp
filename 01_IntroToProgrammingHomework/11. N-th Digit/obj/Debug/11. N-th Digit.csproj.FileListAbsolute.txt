@@ -1,0 +1,6 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\11. N-th Digit\bin\Debug\_11.N_th_Digit.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\11. N-th Digit\bin\Debug\_11.N_th_Digit.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\11. N-th Digit\bin\Debug\_11.N_th_Digit.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\11. N-th Digit\obj\Debug\11. N-th Digit.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\11. N-th Digit\obj\Debug\_11.N_th_Digit.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\11. N-th Digit\obj\Debug\_11.N_th_Digit.pdb

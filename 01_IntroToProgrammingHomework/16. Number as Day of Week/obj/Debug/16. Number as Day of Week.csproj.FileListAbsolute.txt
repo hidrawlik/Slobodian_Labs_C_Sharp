@@ -1,0 +1,6 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\16. Number as Day of Week\bin\Debug\_16.Number_as_Day_of_Week.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\16. Number as Day of Week\bin\Debug\_16.Number_as_Day_of_Week.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\16. Number as Day of Week\bin\Debug\_16.Number_as_Day_of_Week.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\16. Number as Day of Week\obj\Debug\16. Number as Day of Week.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\16. Number as Day of Week\obj\Debug\_16.Number_as_Day_of_Week.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\16. Number as Day of Week\obj\Debug\_16.Number_as_Day_of_Week.pdb

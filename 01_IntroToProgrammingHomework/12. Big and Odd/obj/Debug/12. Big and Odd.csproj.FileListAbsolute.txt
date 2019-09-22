@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\bin\Debug\Big and Odd.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\bin\Debug\Big and Odd.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\bin\Debug\Big and Odd.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\obj\Debug\12. Big and Odd.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\obj\Debug\12. Big and Odd.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\obj\Debug\Big and Odd.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Big and Odd\obj\Debug\Big and Odd.pdb

@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\bin\Debug\08 Average.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\bin\Debug\08 Average.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\bin\Debug\08 Average.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\obj\Debug\08. Average.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\obj\Debug\08. Average.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\obj\Debug\08 Average.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\08 Average\obj\Debug\08 Average.pdb

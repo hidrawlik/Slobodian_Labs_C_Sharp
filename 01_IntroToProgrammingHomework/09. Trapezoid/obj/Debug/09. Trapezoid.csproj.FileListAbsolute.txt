@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\bin\Debug\_09.Trapezoid.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\bin\Debug\_09.Trapezoid.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\bin\Debug\_09.Trapezoid.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\obj\Debug\09. Trapezoid.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\obj\Debug\09. Trapezoid.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\obj\Debug\_09.Trapezoid.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\09. Trapezoid\obj\Debug\_09.Trapezoid.pdb

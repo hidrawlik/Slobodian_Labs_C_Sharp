@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\obj\Debug\10. Last Digit.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\bin\Debug\_10.Last_Digit.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\bin\Debug\_10.Last_Digit.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\bin\Debug\_10.Last_Digit.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\obj\Debug\_10.Last_Digit.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\obj\Debug\_10.Last_Digit.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\10. Last Digit\obj\Debug\10. Last Digit.csprojAssemblyReference.cache

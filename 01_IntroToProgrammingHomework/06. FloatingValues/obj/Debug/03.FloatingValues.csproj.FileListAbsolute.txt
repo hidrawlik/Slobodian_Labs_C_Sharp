@@ -1,0 +1,6 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\03.FloatingValues\obj\Debug\03.FloatingValues.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\03.FloatingValues\bin\Debug\03.FloatingValues.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\03.FloatingValues\bin\Debug\03.FloatingValues.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\03.FloatingValues\bin\Debug\03.FloatingValues.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\03.FloatingValues\obj\Debug\03.FloatingValues.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\03.FloatingValues\obj\Debug\03.FloatingValues.pdb

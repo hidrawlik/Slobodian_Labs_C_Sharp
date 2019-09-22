@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\bin\Debug\Calculate N!.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\bin\Debug\Calculate N!.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\bin\Debug\Calculate N!.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\obj\Debug\17. Calculate N!.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\obj\Debug\17. Calculate N!.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\obj\Debug\Calculate N!.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Calculate N!\obj\Debug\Calculate N!.pdb

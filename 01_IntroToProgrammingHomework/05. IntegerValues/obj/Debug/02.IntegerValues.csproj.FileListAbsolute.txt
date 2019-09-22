@@ -1,0 +1,6 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\02.IntegerValues\obj\Debug\02.IntegerValues.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\02.IntegerValues\bin\Debug\02.IntegerValues.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\02.IntegerValues\bin\Debug\02.IntegerValues.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\02.IntegerValues\bin\Debug\02.IntegerValues.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\02.IntegerValues\obj\Debug\02.IntegerValues.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\02.IntegerValues\obj\Debug\02.IntegerValues.pdb

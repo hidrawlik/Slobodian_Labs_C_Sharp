@@ -1,0 +1,6 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\13. Pure Divisor\bin\Debug\_13.Pure_Divisor.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\13. Pure Divisor\bin\Debug\_13.Pure_Divisor.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\13. Pure Divisor\bin\Debug\_13.Pure_Divisor.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\13. Pure Divisor\obj\Debug\13. Pure Divisor.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\13. Pure Divisor\obj\Debug\_13.Pure_Divisor.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\13. Pure Divisor\obj\Debug\_13.Pure_Divisor.pdb

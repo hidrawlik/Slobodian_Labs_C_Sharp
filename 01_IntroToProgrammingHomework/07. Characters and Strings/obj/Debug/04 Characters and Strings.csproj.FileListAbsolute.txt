@@ -1,0 +1,7 @@
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\bin\Debug\Characters and Strings.exe.config
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\bin\Debug\Characters and Strings.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\bin\Debug\Characters and Strings.pdb
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\obj\Debug\04 Characters and Strings.csprojAssemblyReference.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\obj\Debug\04 Characters and Strings.csproj.CoreCompileInputs.cache
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\obj\Debug\Characters and Strings.exe
+F:\C#\Lab\Lab1\IntroToProgrammingHomework\Characters and Strings\obj\Debug\Characters and Strings.pdb
