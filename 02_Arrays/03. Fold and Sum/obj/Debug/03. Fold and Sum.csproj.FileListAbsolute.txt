@@ -1,0 +1,7 @@
+F:\C#\Arrays\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe.config
+F:\C#\Arrays\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe
+F:\C#\Arrays\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.pdb
+F:\C#\Arrays\03. Fold and Sum\obj\Debug\03. Fold and Sum.csprojAssemblyReference.cache
+F:\C#\Arrays\03. Fold and Sum\obj\Debug\03. Fold and Sum.csproj.CoreCompileInputs.cache
+F:\C#\Arrays\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.exe
+F:\C#\Arrays\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.pdb

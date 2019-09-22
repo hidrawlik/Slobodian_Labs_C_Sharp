@@ -1,0 +1,7 @@
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\obj\Debug\09. Index of Letters.csprojAssemblyReference.cache
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\obj\Debug\09. Index of Letters.csproj.CoreCompileInputs.cache
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+F:\C#\Slobodian_O.D\02_Arrays\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

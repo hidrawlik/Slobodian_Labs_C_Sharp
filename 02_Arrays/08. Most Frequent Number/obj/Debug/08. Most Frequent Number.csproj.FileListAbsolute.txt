@@ -1,0 +1,7 @@
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe.config
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.pdb
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\obj\Debug\08. Most Frequent Number.csprojAssemblyReference.cache
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\obj\Debug\08. Most Frequent Number.csproj.CoreCompileInputs.cache
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.exe
+F:\C#\Slobodian_O.D\02_Arrays\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.pdb

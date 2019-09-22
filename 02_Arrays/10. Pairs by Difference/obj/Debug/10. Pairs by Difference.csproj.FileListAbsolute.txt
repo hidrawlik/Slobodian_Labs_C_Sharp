@@ -1,0 +1,6 @@
+F:\C#\Slobodian_O.D\02_Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+F:\C#\Slobodian_O.D\02_Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+F:\C#\Slobodian_O.D\02_Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+F:\C#\Slobodian_O.D\02_Arrays\10. Pairs by Difference\obj\Debug\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+F:\C#\Slobodian_O.D\02_Arrays\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+F:\C#\Slobodian_O.D\02_Arrays\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

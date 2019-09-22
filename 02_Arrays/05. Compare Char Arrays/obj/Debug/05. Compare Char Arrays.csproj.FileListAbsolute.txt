@@ -1,0 +1,7 @@
+F:\C#\Arrays\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe.config
+F:\C#\Arrays\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe
+F:\C#\Arrays\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.pdb
+F:\C#\Arrays\05. Compare Char Arrays\obj\Debug\05. Compare Char Arrays.csprojAssemblyReference.cache
+F:\C#\Arrays\05. Compare Char Arrays\obj\Debug\05. Compare Char Arrays.csproj.CoreCompileInputs.cache
+F:\C#\Arrays\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.exe
+F:\C#\Arrays\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.pdb

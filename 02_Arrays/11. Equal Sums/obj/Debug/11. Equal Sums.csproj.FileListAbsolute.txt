@@ -1,0 +1,7 @@
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\bin\Debug\_12.Equal_Sums.exe.config
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\bin\Debug\_12.Equal_Sums.exe
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\bin\Debug\_12.Equal_Sums.pdb
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\obj\Debug\11. Equal Sums.csprojAssemblyReference.cache
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\obj\Debug\11. Equal Sums.csproj.CoreCompileInputs.cache
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\obj\Debug\_12.Equal_Sums.exe
+F:\C#\Slobodian_O.D\02_Arrays\12. Equal Sums\obj\Debug\_12.Equal_Sums.pdb

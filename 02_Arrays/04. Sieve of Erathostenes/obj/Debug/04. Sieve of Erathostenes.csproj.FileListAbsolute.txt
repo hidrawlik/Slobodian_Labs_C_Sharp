@@ -1,0 +1,7 @@
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\bin\Debug\04 Sieve of Erathostenes.exe.config
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\bin\Debug\04 Sieve of Erathostenes.exe
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\bin\Debug\04 Sieve of Erathostenes.pdb
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\obj\Debug\04. Sieve of Erathostenes.csprojAssemblyReference.cache
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\obj\Debug\04. Sieve of Erathostenes.csproj.CoreCompileInputs.cache
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\obj\Debug\04 Sieve of Erathostenes.exe
+F:\C#\Slobodian_O.D\02_Arrays\04 Sieve of Erathostenes\obj\Debug\04 Sieve of Erathostenes.pdb
