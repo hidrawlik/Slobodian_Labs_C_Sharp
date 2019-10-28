@@ -1,0 +1,7 @@
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\bin\Debug\01_Define_a_Class_Person.exe.config
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\bin\Debug\01_Define_a_Class_Person.exe
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\bin\Debug\01_Define_a_Class_Person.pdb
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\obj\Debug\01_Define_a_Class_Person.csprojAssemblyReference.cache
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\obj\Debug\01_Define_a_Class_Person.csproj.CoreCompileInputs.cache
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\obj\Debug\01_Define_a_Class_Person.exe
+F:\C#\03. Defining Classes\01_Define_a_Class_Person\obj\Debug\01_Define_a_Class_Person.pdb
